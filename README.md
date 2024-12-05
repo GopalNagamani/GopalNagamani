@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gopal
-🔭 i'm currently working on spotify-clone  https://github.com/GopalNagamani/spotify-clone<br>🌱 i’m currently learning  CoreData, SwiftUI<br>📫 How to reach me  gopalnagamani06@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/15pDzfZh-Weid5WpCQLDSGYk5eXp2ww7B/view?usp=share_link<br>⚡ Fun fact I will speak to myself alone😅<br>
+🔭 i'm currently working on spotify-clone  https://github.com/GopalNagamani/spotify-clone<br>🌱 i’m currently learning  SwiftUI<br>📫 How to reach me  gopalnagamani06@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/15pDzfZh-Weid5WpCQLDSGYk5eXp2ww7B/view?usp=share_link<br>⚡ Fun fact I will speak to myself alone😅<br>
 
 
 ## 🌐 Socials:
